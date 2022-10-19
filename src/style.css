@@ -1,0 +1,65 @@
+a {
+  text-decoration: none;
+}
+
+.container-md {
+  border: 2px solid black;
+  border-radius: 20px;
+  margin: 30px auto;
+  max-width: 70%;
+}
+
+.main-info {
+  padding: 10px 20px;
+  margin: 20px 0;
+}
+.search-btn {
+  margin-top: 3px;
+}
+
+.current-location-btn {
+  display: block;
+  margin: 0 auto;
+  padding: 10px 20px;
+  background: #b98fdd;
+  color: #fff;
+  font-size: 16px;
+  border-radius: 10px;
+  border: none;
+}
+.current-icon {
+  float: left;
+}
+.current-temp {
+  font-size: 70px;
+  line-height: 1;
+}
+
+.current-units {
+  position: relative;
+  bottom: 40px;
+}
+
+.current.location {
+  font-size: 16px;
+}
+
+.city-name {
+  font-size: 22px;
+}
+
+.main-icon {
+  border: none;
+}
+.upcoming-temp {
+  margin: 20px;
+  font-size: 20px;
+  text-align: center;
+}
+.daily-temp {
+  font-size: 14px;
+}
+
+.daily-icon {
+  font-size: 25px;
+}
