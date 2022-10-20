@@ -2,6 +2,11 @@ a {
   text-decoration: none;
 }
 
+a:hover {
+  text-decoration: underline;
+  transition: all 200ms ease-in-out;
+}
+
 .container-md {
   border: 2px solid black;
   border-radius: 20px;
