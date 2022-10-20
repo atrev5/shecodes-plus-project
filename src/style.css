@@ -6,6 +6,7 @@ a {
   border: 2px solid black;
   border-radius: 20px;
   margin: 30px auto;
+  margin-bottom: 0;
   max-width: 70%;
 }
 
@@ -62,4 +63,9 @@ a {
 
 .daily-icon {
   font-size: 25px;
+}
+
+.repository-link {
+  font-size: 14px;
+  padding-left: 240px;
 }
